@@ -1,0 +1,25 @@
+.Inspiration{
+  color: whitesmoke;
+  text-align: center;
+}
+
+.copyRight{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+
+p{
+  text-align: center;
+  font-size: 16px;
+  color: whitesmoke;
+}
+.oldGeneration{
+  text-decoration: underline;
+}
+.presentGeneration{
+  text-decoration: underline;
+}
+body{
+  background-color: black;
+}
