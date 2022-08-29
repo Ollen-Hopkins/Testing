@@ -1,0 +1,2 @@
+# My-Webpage-Inspired-by-Ratchet-Clank
+This website is created to represent my love for Ratchet &amp; Clank the entire series from beginning until this present moment. Ratchet &amp; Clank Franchise is what inspires me to learn coding and to further pursue a career in tech. I've always been amazed by the creativity behind every project and to know that one day with a lot of effort and practice. I can have my name among the credits of a Ratchet &amp; Clank project as a software developer to inspire the next generation is a reason to look forward to the future.  
